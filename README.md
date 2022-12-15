@@ -1,4 +1,4 @@
-- 👋 Hi word , I’m @ryoshinakamoto
+- 👋 Hi world , I’m @ryoshinakamoto
 - 📫 How to reach me support@shibagun.com
 
 <!---
